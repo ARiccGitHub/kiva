@@ -27,14 +27,17 @@ https://jupyter.org/
 
 Overview:
 
-In this project, we will be visualizing and looking for insights in a dataset from Kaggle (https://www.kaggle.com/fkosmowski/kivadhsv1), that contains information about loans awarded by the non-profit Kiva (https://www.kiva.org/).
+In this project, we will be visualizing and looking for insights in a dataset from Kaggle (https://www.kaggle.com/fkosmowski/kivadhsv1), 
+that contains information about loans awarded by the non-profit Kiva (https://www.kiva.org/).
 
-Using Seaborn, we will explore the average loan amount by country using aggregated bar charts, and visualize the distribution of loan amount by project type and gender using box plots and violin plots.
+Using Seaborn, we will explore the average loan amount by country using aggregated bar charts, 
+and visualize the distribution of loan amount by project type and gender using box plots and violin plots.
 
 You will be completing this project on your computer, similar to the other off-platform projects that we’ve done during this path.
 
 WORKING ON YOUR COMPUTER
 Learn about Jupyter Notebooks, a cool way of combining Python code with explanations or instruction in a web terminal.
+
 ----------------------------------------------------------------------------------------
 
 Project map:
