@@ -31,7 +31,7 @@ In this project, we will be visualizing and looking for insights in a dataset fr
 
 Using Seaborn, we will explore the average loan amount by country using aggregated bar charts, and visualize the distribution of loan amount by project type and gender using box plots and violin plots.
 
-You will be completing this project on your computer, similar to the other off-platform projects that we’ve done during this path.
+You will be completing this project on your computer, similar to the other off-platform projects that weâ€™ve done during this path.
 
 WORKING ON YOUR COMPUTER
 Learn about Jupyter Notebooks, a cool way of combining Python code with explanations or instruction in a web terminal.
@@ -44,12 +44,6 @@ kiva_project.ipynb
 
 data files
 kiva_data.csv
- 
-----------------------------------------------------------------------------------------
-
-links:
-PowerPoint Twitch Presentation
-https://1drv.ms/p/s!AsKPX_vZuHCqhPB3vRZ0snTVAIMMyA?e=o5FT2M
 
 ----------------------------------------------------------------------------------------
 
@@ -82,7 +76,7 @@ data set to df
 x set to country
 y set to loan_amount
 
-Adding $ units¶
+Adding $ unitsÂ¶
 Format the ticks on the y-axis begin with a $ (units of USD).
 
 5.
@@ -136,7 +130,7 @@ Instead of visualizing the loan amount by country, use sns.boxplot() to plot the
 
 Optional: Set a different plot style and color palette to best visualize this data.
 
-Reflection Questions¶
+Reflection QuestionsÂ¶
 What does this visualization reveal that previous ones did not?
 
 9.
@@ -149,7 +143,7 @@ To visualize the distribution of the exact same data as a violin plot you could 
 
 *  Change the code in the cell below so that the data is plotted as a violin plot instead of a barplot.
 
-*  Create a violin plot that visualizes the distribution of loan amount by country.¶
+*  Create a violin plot that visualizes the distribution of loan amount by country.Â¶
 
 *  Previously, you created a violin plot and plotted the data by activity. This time, create a violin plot that plots the data by country.
 
